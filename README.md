@@ -1,0 +1,2 @@
+# manyshot
+anthrpc.manyshot
